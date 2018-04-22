@@ -1,5 +1,6 @@
 # foursquare-dataset
 A Foursquare dataset for contextual suggestion
+
 A dataset that we've collected for our participation in TREC 2016 Contextual Suggestion track.
 https://sites.google.com/site/treccontext/
 
