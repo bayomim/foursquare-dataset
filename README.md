@@ -29,7 +29,7 @@ Each object contains a "foursquare" object that has all the data associated with
 
 User names and Ids are anonymised.
 
-The dataset is available on the following link:
+The dataset is available here:
 
 https://drive.google.com/file/d/1Jt0NcUVRWVBsm-t1ww_wgzA-SCP8HCuH/view?usp=sharing
 
