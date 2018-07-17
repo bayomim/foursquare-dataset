@@ -75,7 +75,8 @@ A sample of an object in the dataset is as follows:
                     },
                     {"userName":"3",
                     "userId":"3",
-                    "tipDate":"March 29, 2011","tipText":"Need a new workout? Try a group class (power, step, ride, centergy) ... there's something for everyone."},
+                    "tipDate":"March 29, 2011",
+                    "tipText":"Need a new workout? Try a group class (power, step, ride, centergy) ... there's something for everyone."},
                     .... // more reviews
                     ]}
                     }
