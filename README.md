@@ -5,8 +5,13 @@ A dataset that we've collected for our participation in TREC 2016 Contextual Sug
 https://sites.google.com/site/treccontext/
 
 The dataset comprises 228,778 attractions such as: Parks, Restaurants, Meusums, etc.
+    
+    Update: 2018-07-23 - a new set of 969 attractions are now added
+    the new dataset contains 229,747 attractions
 
 The dataset is in JSON format and it was collected from 2017-01-30 to 2017-02-22.
+
+    Update: the last 969 attractions in the dataset were collected on 2018-07-23
 
 Attractions in this dataset are from different cities in the US. 
 
@@ -31,7 +36,7 @@ User names and Ids are anonymised.
 
 The dataset is available here:
 
-https://drive.google.com/file/d/1Jt0NcUVRWVBsm-t1ww_wgzA-SCP8HCuH/view?usp=sharing
+https://drive.google.com/file/d/1WtSRaw_vNlHm6rs75skhkGePMDQkS_qj/view?usp=sharing
 
 A sample of an object in the dataset is as follows:
 
