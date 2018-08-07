@@ -73,15 +73,18 @@ A sample of an object in the dataset is as follows:
                 "drinks":[],// What drinks are in the menue (if a restaurant)
                 "tagCloudArray":[], // Prominent keywords etracted from the users' reviews
                 "reviews":[ // users' reviews
-                    {"userName":2, // userName and userId have the same number. This is the anonymous ID 
+                    {
+                    "userName":2, // userName and userId have the same number. This is the anonymous ID 
                     "userId":2,
                     "tipDate":"January 10, 2016",// the date where this review was written
                     "tipText":"Great classes for non-members. We really enjoy aqua tots with our son." // The review text
                     },
-                    {"userName":"3",
+                    {
+                    "userName":"3",
                     "userId":"3",
                     "tipDate":"March 29, 2011",
-                    "tipText":"Need a new workout? Try a group class (power, step, ride, centergy) ... there's something for everyone."},
+                    "tipText":"Need a new workout? Try a group class (power, step, ride, centergy) ... there's something for everyone."
+                    },
                     .... // more reviews
                     ]}
                     }
