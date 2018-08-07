@@ -86,5 +86,5 @@ A sample of an object in the dataset is as follows:
                     "tipText":"Need a new workout? Try a group class (power, step, ride, centergy) ... there's something for everyone."
                     },
                     .... // more reviews
-                    ]}
+                    ]} // End of "foursquare" object
                     }
