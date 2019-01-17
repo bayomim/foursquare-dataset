@@ -28,7 +28,7 @@ Please cite our paper if you publish material based on this dataset.
 Our paper is available here:
 https://trec.nist.gov/pubs/trec25/papers/ADAPT_TCD-CX.pdf
 
-Each object in the JSON file has data from the contextual suggestion track (e.g. attractioh id, city, city location., etc.)
+Each object in the JSON file has data from the contextual suggestion track (e.g. attraction id, city, city location., etc.)
 
 Each object contains a "foursquare" object that has all the data associated with the attraction on Foursquare including users' reviews.
 
